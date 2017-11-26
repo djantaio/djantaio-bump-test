@@ -1,0 +1,29 @@
+{
+  "name": "djantaio-bump-test",
+  "version": "0.0.0",
+  "description": "djanta.io releasing tool module based on node implementation",
+  "homepage": "www.djanta.io",
+  "license": "MIT",
+  "author": {
+    "name": "Stanislas Koffi ASSOUTOVI",
+    "email": "team.dev@djanta.io",
+    "url": "www.djanta.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/djantaio/djantaio-bump-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/djantaio/djantaio-bump-test/issues"
+  },
+  "keywords": [
+    "release",
+    "tag",
+    "version",
+    "test"
+  ],
+  "engines": {
+    "node": ">=7.0.0",
+    "npm": ">=4.6.0"
+  }
+}
