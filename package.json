@@ -25,5 +25,9 @@
   "engines": {
     "node": ">=7.0.0",
     "npm": ">=4.6.0"
+  },
+  "dependencies": {
+    "dateutil": "^0.1.0",
+    "lodash": "^4.17.5"
   }
 }
