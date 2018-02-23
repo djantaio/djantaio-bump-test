@@ -1,4 +1,16 @@
 
+* __Incrementing version:  2.4.16__
+
+    [djantaio](mailto:github@djanta.io) - Thu, 22 Feb 2018 22:51:22 -0600
+    
+    
+
+* __2.4.16__
+
+    [djantaio](mailto:github@djanta.io) - Thu, 22 Feb 2018 22:51:15 -0600
+    
+    
+
 * __Incrementing version:  2.4.15__
 
     [djantaio](mailto:github@djanta.io) - Thu, 22 Feb 2018 22:47:32 -0600
