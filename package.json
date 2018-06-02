@@ -1,6 +1,6 @@
 {
   "name": "djantaio-bump-test",
-  "version": "3.0.10-0",
+  "version": "3.0.10",
   "description": "djanta.io releasing tool module based on node implementation",
   "homepage": "www.djanta.io",
   "license": "MIT",
@@ -28,6 +28,6 @@
   },
   "dependencies": {
     "dateutil": "^0.1.0",
-    "lodash": "^4.17.5"
+    "lodash": "^4.17.10"
   }
 }
